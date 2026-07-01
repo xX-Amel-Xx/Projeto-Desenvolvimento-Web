@@ -7,6 +7,7 @@ Projeto desenvolvido em grupo para a faculdade.
 - Kelly Campos
 - Luiz Felipy
 - Eduardo Aparecido
+- Matheus Rocha
 
 ##  Tecnologias usadas
 - HTML
